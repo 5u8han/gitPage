@@ -1,0 +1,15 @@
+baseURL = "5u8han.dev"
+languageCode = 'en-us'
+title = "Developer"
+contentDir = "content"
+
+
+[params]
+  theme = "m10c"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
