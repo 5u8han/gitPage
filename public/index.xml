@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subhan</title>
+    <link>https://5u8han.dev/</link>
+    <description>Recent content on Subhan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://5u8han.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subhan</title>
+      <link>https://5u8han.dev/subhan/</link>
+      <pubDate>Mon, 28 Aug 2023 21:10:34 -0500</pubDate>
+      
+      <guid>https://5u8han.dev/subhan/</guid>
+      <description>shit</description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://5u8han.dev/projects/</link>
+      <pubDate>Mon, 28 Aug 2023 16:43:51 -0500</pubDate>
+      
+      <guid>https://5u8han.dev/projects/</guid>
+      <description>Project Showcase Explore some of the projects I&amp;rsquo;ve completed:
+Project 1: Web Portfolio A personal website to showcase my skills and projects.
+Project 2: E-commerce Website An e-commerce platform for selling various products.
+Project 3: Java Software Development Created multiple small Java apps for managing tasks, numbers and outputs. All code is uploaded and maintained on github.
+Example: Hello World in Java public class HelloWorld { public static void main(String[] args) { System.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://5u8han.dev/about/</link>
+      <pubDate>Mon, 28 Aug 2023 06:19:16 -0500</pubDate>
+      
+      <guid>https://5u8han.dev/about/</guid>
+      <description>Hello! I&amp;rsquo;m Subhan Noeman, a dedicated Software Engineer with a passion for exploring the vast realm of technology. From crafting code to unraveling intricate concepts, I find joy in every step of the journey.
+Currently Blessing my brain with JAVA, JS, SQL, Laravel, MS Suite, Virtualization, Docker, Kubernetes and Cybergoatse.cx SkillSet Tools FrameWorks Language / IDE Tool / Framework Domain Knownledge Reach Me Experimentation Certifications: CompTIA Network+ CE CompTIA Security+ CE Google Associate Cloud Engineer Education I pursued a Bachelor&amp;rsquo;s degree in Computer Science from Northeastern Illinois University, where I embraced a multitude of subjects such as Network Security, Information Technology, and Software Engineering.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://5u8han.dev/resume/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://5u8han.dev/resume/</guid>
+      <description>Subhan Noeman 773-946-8771 | me@5u8han.dev | Linkedin.com/in/5u8han | Github.com/5u8han
+Chicago, IL 60645
+Goals &amp;amp; Objectives Upcoming Software Engineer with experience in Java, HTML, CSS, and WordPress development. Proficient in IT and implementation technologies such as AWS, VMware, Azure, Microsoft Office Suite, and others. Learning C# using ASP.Net MVC webapp model. Learning Python for scripting daily tasks with Windows Terminal (WSL) as the Go-To Interface.
+Education Northeastern Illinois University – Chicago, IL || Aug 2020 – (Spring 2022)</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://5u8han.dev/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://5u8han.dev/post/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://5u8han.dev/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://5u8han.dev/contact/</guid>
+      <description>Contact Me If you have any questions, inquiries, or just want to say hello, feel free to get in touch. I&amp;rsquo;d love to hear from you!
+Email You can reach me via email at info@5u8han.dev.
+Social Media Connect with me on social media:
+Twitter: @5u8han LinkedIn: Subhan Noeman GitHub: 5u8han </description>
+    </item>
+    
+  </channel>
+</rss>

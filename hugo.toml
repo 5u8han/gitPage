@@ -1,15 +1,59 @@
-baseURL = "5u8han.dev"
+baseURL = 'https://5u8han.dev/'
+title = "Subhan"
 languageCode = 'en-us'
-title = "Developer"
-contentDir = "content"
-
-
-[params]
-  theme = "m10c"
+theme = "nightfall"
 
 [menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+  [[menu.header]]
+    name = "about"
+    weight = 2
+    url = "about"
+  [[menu.header]]
+    name = "Resume"
+    weight = 5
+    url = "resume"
+  [[menu.header]]
+    name = "Projects"
+    weight = 4
+    url = "projects"
+  [[menu.header]]
+    name = "Contact"
+    weight = 3
+    url = "contact"
+  [[menu.header]]
+    name="main"
+    weight=1
+    url="/"
 
+[params]
+author = "Subhan"
+user = "Subh"
+hostname = "an"
+footerHtml = 'Sub-Dev'
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://www.github.com/5u8han"
+
+[[params.social]]
+key = 1
+name = "Twitter"
+url = "https://www.twitter.com/5u8han"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.linkedin.com/in/5u8han"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:info@5u8han.dev"
+
+[[params.social]]
+key = 4
+name = "Steam"
+url = "mailto:info@5u8han.dev"
